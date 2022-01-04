@@ -1,0 +1,26 @@
+{
+  "6195-FIT": {
+    "name": "6195-FIT",
+    "description": "crispo fitting",
+    "length": "50",
+    "tool": "6195",
+    "fab_usd": "0.035",
+    "surf_usd": "0"
+  },
+  "6197-FIT": {
+    "name": "6197-FIT",
+    "description": "sentio fitting",
+    "length": "50",
+    "tool": "6197",
+    "fab_usd": "0.035",
+    "surf_usd": "0"
+  },
+  "8429-FIT": {
+    "name": "8429-FIT",
+    "description": "lato fitting",
+    "length": "50",
+    "tool": "8429",
+    "fab_usd": "0.035",
+    "surf_usd": "0"
+  }
+}

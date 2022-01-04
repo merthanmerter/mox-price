@@ -1,0 +1,18 @@
+{
+  "lme": 3000,
+  "premium": 1200,
+  "conversion": 1150,
+  "usdtl": 15,
+  "eurusd": 1.13,
+  "gbpusd": 1.35,
+
+  "lang": "en",
+  "currency": "gbp",
+
+  "lengthType": "metric",
+  "lengthTitle": "mm",
+
+  "pricing": "retail",
+  "wholesalePriceMultiplier": 2,
+  "retailPriceMultiplier": 2.65
+}

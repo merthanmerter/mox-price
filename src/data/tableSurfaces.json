@@ -1,0 +1,191 @@
+{
+  "ME-G": {
+    "name": "ME-G",
+    "description": "mat eloksal",
+    "description_en": "matte anodised",
+    "color": "gümüş",
+    "color_en": "silver",
+    "usdm2": 2
+  },
+  "ME-S": {
+    "name": "ME-S",
+    "description": "mat eloksal",
+    "description_en": "matte anodised",
+    "color": "sarı",
+    "color_en": "yellow",
+    "usdm2": 2.3
+  },
+  "ME-BR": {
+    "name": "ME-BR",
+    "description": "mat eloksal",
+    "description_en": "matte anodised",
+    "color": "bronz",
+    "color_en": "bronze",
+    "usdm2": 2.5
+  },
+  "ME-I": {
+    "name": "ME-I",
+    "description": "mat eloksal",
+    "description_en": "matte anodised",
+    "color": "inox",
+    "color_en": "inox",
+    "usdm2": 2.3
+  },
+  "ME-SYH": {
+    "name": "ME-SYH",
+    "description": "mat eloksal",
+    "description_en": "matte anodised",
+    "color": "siyah",
+    "color_en": "black",
+    "usdm2": 3
+  },
+  "PE-G": {
+    "name": "PE-G",
+    "description": "parlak eloksal",
+    "description_en": "bright anodised",
+    "color": "gümüş",
+    "color_en": "silver",
+    "usdm2": 3.5
+  },
+  "PE-S": {
+    "name": "PE-S",
+    "description": "parlak eloksal",
+    "description_en": "bright anodised",
+    "color": "sarı",
+    "color_en": "yellow",
+    "usdm2": 4
+  },
+  "PE-BR": {
+    "name": "PE-BR",
+    "description": "parlak eloksal",
+    "description_en": "bright anodised",
+    "color": "bronz",
+    "color_en": "bronze",
+    "usdm2": 4
+  },
+  "PE-I": {
+    "name": "PE-I",
+    "description": "parlak eloksal",
+    "description_en": "bright anodised",
+    "color": "inox",
+    "color_en": "inox",
+    "usdm2": 4
+  },
+  "PE-SYH": {
+    "name": "PE-SYH",
+    "description": "parlak eloksal",
+    "description_en": "bright anodised",
+    "color": "siyah",
+    "color_en": "black",
+    "usdm2": 4.5
+  },
+  "STA-RAL9016": {
+    "name": "STA-RAL9016",
+    "description": "elektrostatik toz boyama",
+    "description_en": "powder coated",
+    "color": "beyaz",
+    "color_en": "white",
+    "usdm2": 2.3
+  },
+  "STA-RAL7016": {
+    "name": "STA-RAL7016",
+    "description": "elektrostatik toz boyama",
+    "description_en": "powder coated",
+    "color": "antrasit",
+    "color_en": "Anthracite",
+    "usdm2": 2.3
+  },
+  "CHR": {
+    "name": "CHR",
+    "description": "krom kaplama",
+    "description_en": "chrome plated",
+    "color": "ayna",
+    "color_en": "mirror",
+    "usdm2": 15
+  },
+  "KIM-G-STN": {
+    "name": "KIM-G-STN",
+    "description": "satinajlı kimyasal parlak eloksal",
+    "description_en": "brushed chemically bright anodised",
+    "color": "gümüş",
+    "color_en": "silver",
+    "usdm2": 8
+  },
+  "ANT-S": {
+    "name": "ANT-S",
+    "description": "satine",
+    "description_en": "satin",
+    "color": "antrasit",
+    "color_en": "anthracite"
+  },
+  "ANT-A": {
+    "name": "ANT-A",
+    "description": "ayna",
+    "description_en": "mirror",
+    "color": "antrasit",
+    "color_en": "anthracite"
+  },
+  "BZ-S": {
+    "name": "BZ-S",
+    "description": "satine",
+    "description_en": "satin",
+    "color": "bronz",
+    "color_en": "bronze"
+  },
+  "BZ-A": {
+    "name": "BZ-S",
+    "description": "ayna",
+    "description_en": "mirror",
+    "color": "bronz",
+    "color_en": "bronze"
+  },
+  "B-S": {
+    "name": "B-S",
+    "description": "satine",
+    "description_en": "satin",
+    "color": "bakır",
+    "color_en": "copper"
+  },
+  "B-A": {
+    "name": "B-A",
+    "description": "ayna",
+    "description_en": "mirror",
+    "color": "bakır",
+    "color_en": "copper"
+  },
+  "A-S": {
+    "name": "A-S",
+    "description": "satine",
+    "description_en": "satin",
+    "color": "altın",
+    "color_en": "gold"
+  },
+  "A-A": {
+    "name": "A-A",
+    "description": "ayna",
+    "description_en": "mirror",
+    "color": "altın",
+    "color_en": "gold"
+  },
+  "I-S": {
+    "name": "I-S",
+    "description": "satine",
+    "description_en": "satin",
+    "color": "inox",
+    "color_en": "inox"
+  },
+  "I-A": {
+    "name": "I-A",
+    "description": "ayna",
+    "description_en": "mirror",
+    "color": "inox",
+    "color_en": "inox"
+  },
+  "I-SA": {
+    "name": "I-SA",
+    "description": "süper ayna",
+    "description_en": "super mirror",
+    "color": "inox",
+    "color_en": "inox"
+  }
+}

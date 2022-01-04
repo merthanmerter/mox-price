@@ -1,0 +1,35 @@
+
+*
+    margin: 0
+
+html
+    font-family: Arial, Helvetica, sans-serif
+
+a
+    color: black
+    &:hover
+        color: grey
+
+.capitalize
+    text-transform: capitalize
+
+.uppercase
+    text-transform: uppercase
+
+.pl-span
+    margin-right: 1em
+
+.cover
+    object-fit: cover
+    aspect-ratio: 360/241
+
+@media print
+    html
+        font-size: 60%
+    .pagebreak
+        clear: both
+        page-break-after: always
+    .printhide
+        display: none!important
+        opacity: 0
+        height: 0

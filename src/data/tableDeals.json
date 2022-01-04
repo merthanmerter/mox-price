@@ -1,0 +1,38 @@
+{
+  "16808-FTL-SF": {
+    "name": "16808-FTL-SF",
+    "description": "şerit LED (5m paket)",
+    "description_en": "strip LED (5m pack)",
+    "price": 15,
+    "currency": "usd",
+    "marginwholesale": 1.3,
+    "marginretail": 1.5
+  },
+  "6864-12V-16.5": {
+    "name": "6864-12V-16.5",
+    "description": "sürücü",
+    "description_en": "driver",
+    "price": 17,
+    "currency": "usd",
+    "marginwholesale": 1.3,
+    "marginretail": 1.5
+  },
+  "RGB24P": {
+    "name": "RGB24P",
+    "description": "dimmer duvar paneli",
+    "description_en": "dimmer wall panel",
+    "price": 35,
+    "currency": "usd",
+    "marginwholesale": 1.3,
+    "marginretail": 1.5
+  },
+  "RGB24R": {
+    "name": "RGB24R",
+    "description": "dimmer uzaktan kummanda",
+    "description_en": "dimmer remote control",
+    "price": 23,
+    "currency": "usd",
+    "marginwholesale": 1.3,
+    "marginretail": 1.5
+  }
+}

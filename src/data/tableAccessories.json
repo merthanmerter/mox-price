@@ -1,0 +1,30 @@
+{
+  "16808-DIF": {
+    "name": "16808-DIF",
+    "description": "luceo difusor",
+    "currency": "eur",
+    "price": 0.56,
+    "unit": "m"
+  },
+  "3379-FTL": {
+    "name": "3379-FTL",
+    "description": "scala fitil",
+    "currency": "eur",
+    "price": 0.6,
+    "unit": "m"
+  },
+  "16810-PNL": {
+    "name": "16810-PNL",
+    "description": "wishled panel",
+    "currency": "tl",
+    "price": 80,
+    "unit": "pcs"
+  },
+  "5849-PLC": {
+    "name": "5849-PLC",
+    "description": "all in one plastik",
+    "currency": "tl",
+    "price": 1,
+    "unit": "pcs"
+  }
+}
